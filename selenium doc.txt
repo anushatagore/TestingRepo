@@ -1,0 +1,44 @@
+downld sample proj.
+test guru99
+
+www.login.salesforce.com
+SP-00004
+
+there are a lot of incompatibilities between Selenium recorder and Java implementation
+have to live with it
+
+
+http://www.seleniumhq.org/projects/
+
+java -jar selenium-server-standalone-2.44.0.jar -role webdriver -hub http://localhost:4444/grid/register
+
+automation
+
+fill xml
+
+test case sheet(scripts)--------
+
+test data and ip parameters to be configured
+
+here we willpass the excelsheet in the code values
+
+http://selftechy.com/2012/01/09/setting-up-testng-with-eclipse
+
+https://www.youtube.com/watch?v=566o080eG8E
+
+https://www.youtube.com/watch?v=4XDzJpQT0EQ
+
+http://www.seleniumhq.org/docs/07_selenium_grid.jsp
+
+http://stackoverflow.com/questions/11220869/selenium-how-can-i-select-new-window
+(error part)
+
+http://software-testing-tutorials-automation.blogspot.in/2013/03/how-to-use-selectwindow-and.html
+
+http://stackoverflow.com/questions/2092149/how-to-record-popup-windows-with-selenium-ide
+
+http://software-testing-tutorials-automation.blogspot.in/2013/10/selenium-how-to-select-window-if-window.html
+
+http://software-testing-tutorials-automation.blogspot.in/2013/03/how-to-use-selectwindow-and.html
+
+http://selenium-by-arun.blogspot.in/2012/11/5-install-firepath-addon-for-firefox.html
